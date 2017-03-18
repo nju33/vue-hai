@@ -38,6 +38,11 @@ yarn
 yarn dev
 ```
 
+## Related
+
+- [hai](https://github.com/nju33/hai)
+- [react-hai](https://github.com/nju33/react-hai)
+
 ## License
 
 The MIT License (MIT)
